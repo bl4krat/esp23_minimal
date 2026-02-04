@@ -3,7 +3,7 @@ How to build this project:
 get_idf  		// you follwed the idf install instructions and added this
 				// alias to set the evnironment variables, right?
 ```
-copy this project to a suitable folder as CD to the project root folder
+Copy this project to a suitable folder and CD to the project root folder:
 ```
 idf.py set-target esp32		// set-target --list to see the options
 idf.py menuconfig			// 'This demo uses the default settings'
