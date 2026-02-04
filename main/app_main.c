@@ -14,7 +14,7 @@
 #include "esp_flash.h"              // flash_size stuff
 #include "esp_system.h"             // misc system API's incl esp_get_minimum_free_heap_size()
 
-void app_main(void)
+void app_main (void)
 {
     printf("Hello world!\n");
 
